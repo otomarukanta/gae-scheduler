@@ -1,0 +1,4 @@
+cron:
+- description: Push every hour
+  url: /publish/cron-hourly
+  schedule: every 1 hours
